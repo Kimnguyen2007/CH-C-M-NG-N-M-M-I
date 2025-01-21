@@ -59,7 +59,7 @@
 
         <div class="dish">
             <h2>1. Bánh chưng, bánh tét</h2>
-            <img src="https://example.com/banhchung_banhtet.jpg" alt="Bánh chưng và bánh tét">
+            <img src="BANHCHUNG.jpg" alt="Bánh chưng và bánh tét">
             <p><strong>Đặc trưng:</strong></p>
             <ul>
                 <li>Bánh chưng (miền Bắc) và bánh tét (miền Nam) được làm từ gạo nếp, đậu xanh, thịt lợn, và được gói bằng lá dong hoặc lá chuối.</li>
@@ -75,7 +75,7 @@
 
         <div class="dish">
             <h2>2. Thịt kho hột vịt (Thịt kho tàu)</h2>
-            <img src="https://example.com/thitkho.jpg" alt="Thịt kho hột vịt">
+            <img src="Thit kho hot vit 1.jpg" alt="Thịt kho hột vịt">
             <p><strong>Đặc trưng:</strong></p>
             <ul>
                 <li>Món ăn gồm thịt heo (thường là thịt ba chỉ), trứng vịt, nước dừa, được kho đến khi mềm và thấm gia vị.</li>
@@ -90,7 +90,7 @@
 
         <div class="dish">
             <h2>3. Dưa hành, củ kiệu</h2>
-            <img src="https://example.com/duahanh_cukieu.jpg" alt="Dưa hành và củ kiệu">
+            <img src="dua-hanh-cu-kieu.jpg" alt="Dưa hành và củ kiệu">
             <p><strong>Đặc trưng:</strong></p>
             <ul>
                 <li>Dưa hành phổ biến ở miền Bắc và Trung, còn củ kiệu được ưa chuộng ở miền Nam.</li>
@@ -105,7 +105,7 @@
 
         <div class="dish">
             <h2>4. Mâm ngũ quả</h2>
-            <img src="https://example.com/mamnguqua.jpg" alt="Mâm ngũ quả">
+            <img src="mam-ngu-qua-ngay-tet-02_1673433713.jpg" alt="Mâm ngũ quả">
             <p><strong>Đặc trưng:</strong></p>
             <ul>
                 <li>Mâm ngũ quả gồm 5 loại trái cây, thường chọn theo màu sắc và ý nghĩa.</li>
